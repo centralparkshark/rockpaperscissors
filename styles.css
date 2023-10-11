@@ -1,0 +1,26 @@
+body {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.title {
+    font-size: 78px;
+    text-align: center;
+}
+
+.score {
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+    padding: 8px;
+    max-width: 300px;
+}
+
+.score div {
+    font-size: 24px;
+    text-align: left;
+}
+
